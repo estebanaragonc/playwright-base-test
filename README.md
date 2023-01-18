@@ -11,4 +11,5 @@ If you want to run test locally, please follow these steps:
 3. Run `npm install` to install node modules
 4. That's it, now you can run tests with `npm run test` - it will run test in 3 browsers (chromium, firefox, webkit) in parallel.
 
-If you want to run it in headed mode, then change configuration to `headless: true` in `playwright.config.js`
+If you want to run it in headed mode, then change configuration to `headless: false` in `playwright.config.js`
+If you want to run it in headless mode, then change configuration to `headless: true` in `playwright.config.js`

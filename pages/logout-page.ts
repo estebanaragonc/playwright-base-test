@@ -1,5 +1,5 @@
 import type { Page } from 'playwright';
-import { isVisible } from '../framework/common-actions';
+import { isVisible } from '../common/common-actions';
 
 export class LogoutPage {
     readonly page: Page;
