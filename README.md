@@ -1,4 +1,4 @@
-## Page Object Model Pattern with Playwright by Elvis
+## Page Object Model Pattern with Playwright by Elvis Aragon
 
 ![alt text](./playwright-logo.png)
 
